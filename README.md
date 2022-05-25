@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramon Murilo</h1>
 <h3 align="center">A data scientist student and physics enthusiastic in general</h3>
 
-- 🔭 I’m currently working on [My portfolio website and projects](ramonmurilo.github.io)
+- 🔭 I’m currently working on [My portfolio website and projects]([ramonmurilo.github.io](https://ramon-murilo.github.io/))
 
 - 🌱 I’m currently learning **Statistics, Python, Pandas, Power BI, SQL and Data Visualization**
 
