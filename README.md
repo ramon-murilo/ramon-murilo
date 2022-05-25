@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramon Murilo</h1>
-<h3 align="center">A data analyst student and physics enthusiastic in general</h3>
+<h3 align="center">A data scientist student and physics enthusiastic in general</h3>
 
 - 🔭 I’m currently working on [My portfolio website and projects](ramonmurilo.github.io)
 
