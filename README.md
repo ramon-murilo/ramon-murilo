@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ramon Murilo</h1>
-<h3 align="center">A data scientist student and physics enthusiastic in general</h3>
+<h1 align="center">Hi 👋, I'm Murilo</h1>
+<h3 align="center">A data scientist engineer and physics enthusiastic in general</h3>
 
 - 🔭 I’m currently working on [My portfolio website and projects]([ramonmurilo.github.io](https://ramon-murilo.github.io/))
 
-- 🌱 I’m currently learning **Statistics, Python, Pandas, Power BI, SQL and Data Visualization**
+- 🌱 I’m currently learning **Python, DBT, Airflow, SQL, MongoDB, SAP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramon-murilo/ramon-murilo](https://github.com/ramon-murilo/ramon-murilo)
 
